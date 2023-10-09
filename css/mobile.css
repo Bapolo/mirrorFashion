@@ -1,0 +1,101 @@
+
+.container {
+    width: 96%;
+}
+
+header
+{
+    position: static;
+}
+
+header h1 {
+    text-align: center;
+    margin: 1rem;
+}
+
+header h1 img {
+    max-width: 50%;
+}
+
+.sacola {
+    display: none;
+}
+
+.menu-opcoes {
+    position: static;
+    text-align: center;
+    margin: 1rem;
+}
+
+.menu-opcoes ul li {
+    display: inline-block;
+    margin: 5px;
+}
+
+.busca,
+.menu-departamentos
+{
+    float: none;
+    width: 100%;
+
+    display: block;
+}
+
+.busca
+{
+    padding: 0.3rem;
+}
+
+.busca input[type=search]
+{
+    padding: 0.2rem;
+}
+
+.busca form
+{
+    text-align: center;
+}
+
+#banner
+{
+    max-width: 100%;
+    width: 100%;
+}
+
+.painel 
+{
+    max-width: 100%;
+    width: 98%;
+    margin: 1rem auto;
+}
+
+.painel ol
+{
+    text-align: center;
+}
+
+.painel li
+{
+    width: 30%;
+    margin: auto; 
+}
+
+.painel li img
+{
+    width: 100%;
+}
+
+.menu-departamentos
+{
+    margin-bottom: 0.5rem;
+}
+
+.menu-departamentos h2
+{
+    padding-top: 0.8rem;
+}
+
+footer
+{
+    max-width: 100%;
+}
